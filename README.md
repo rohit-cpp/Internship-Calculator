@@ -128,10 +128,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Would you like me to:
-
-* Create a **README.md** file and output it for you to copy?
-* Generate a **repository description and tags**?
-* Help you deploy it to **Vercel** or **Netlify**?
-
-Let me know!
